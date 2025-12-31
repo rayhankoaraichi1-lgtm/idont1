@@ -23,6 +23,7 @@ local WhitelistedNames = {
     "Ara1s777",
     "Sudbdjixhvjcdidisc",
     "Zayonthat_2",
+    "Frauheinrich0",
 }
 
 local function isWhitelisted(plr)
