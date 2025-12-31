@@ -10,6 +10,7 @@ local WhitelistedUserIds = {
     9933701053,
     9321672816,
     1325278327,
+    8014232861,
 }
 
 local WhitelistedNames = {
