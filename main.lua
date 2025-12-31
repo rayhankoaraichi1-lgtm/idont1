@@ -13,10 +13,12 @@ local WhitelistedUserIds = {
     8014232861,
     8062324551,
     9132208479,
+    9321672815,
 }
 
 local WhitelistedNames = {
     "Not_happy300",
+    "Ara1s777",
 }
 
 local function isWhitelisted(plr)
